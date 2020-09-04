@@ -8,7 +8,7 @@ public class splllit {
 		
 		String doll="abseadefaghieajkl";
 		String[] doll1=doll.split("e");
-		
+		System.out.println("hello clone");
 			//System.out.println(doll1[4]);
 		System.out.println(doll1[0]);
 			  System.out.println(doll1[1]);
